@@ -19,7 +19,7 @@ I'm a data analyst who likes taking messy, real-world data and turning it into c
 - 🔍 I focus on **data quality**: finding discrepancies, outliers and silent errors before they reach a dashboard
 - 📊 I build **interactive Power BI reports** with DAX measures, what-if parameters and drill-downs
 - ⚙️ I automate repetitive work with **ETL pipelines** in Python and MySQL
-- 🎓 B.Tech in Information Technology, Malla Reddy Institute of Engineering and Technology (2023)
+- 🎓 B.Tech in Information Technology, Malla Reddy Institute of Engineering and Technology
 
 ---
 
@@ -27,7 +27,7 @@ I'm a data analyst who likes taking messy, real-world data and turning it into c
 
 <p>
   <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square" alt="SQL">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas">
@@ -100,7 +100,7 @@ Cleans and preprocesses **48,000+ raw listing records** into an analysis-ready d
 
 - Reviewed **500+** autonomous-vehicle data records daily in Excel, keeping **98%** data accuracy
 - Found error patterns that reduced quality errors by **15%** and improved turnaround time by **20%**
-- Presented analysis to stakeholders and clients with **95%** SLA compliance; trained peers on SOPs
+- Presented analysis to stakeholders and clients with **95%** SLA compliance; occasionally trained peers on SOPs
 
 ---
 
